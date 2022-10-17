@@ -2,6 +2,12 @@
     --rosa-escuro: #d509a0;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 header {
     background: var(--rosa-escuro);
 }
