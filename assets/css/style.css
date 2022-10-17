@@ -26,11 +26,6 @@ header {
     padding: 40px 100px;
 }
 
-.logo {
-    position: relative;
- display: flex;
-}
-
 .logo img {
     max-width: 100px;
 }
@@ -50,4 +45,17 @@ header {
     background: linear-gradient(to bottom, #d509a0, #ff606e);
     width: 100%;
     min-height: 100vh;
+    padding: 100px 100px 0;
+}
+
+.secao::before {
+    content: 'ZOOMX';
+    font-size: 20vw;
+    font-weight: 900;
+    color: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
 }
