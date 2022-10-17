@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--fonte-padrao);
+}
+
 :root {
     --rosa-escuro: #d509a0;
     --rosa-claro: #ff606e;
@@ -8,12 +15,12 @@
     --fonte-padrao: 'Poppins', sans-serif;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+header {
+    
 }
 
-header {
-    background: var(--rosa-claro);
+.secao {
+    background: linear-gradient(to bottom, #d509a0, #ff606e);
+    width: 100%;
+    min-height: 100vh;
 }
