@@ -1,3 +1,7 @@
 :root {
-    
+    --rosa-escuro: #d509a0;
+}
+
+header {
+    background: var(--rosa-escuro);
 }
