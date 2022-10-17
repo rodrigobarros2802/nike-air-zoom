@@ -16,7 +16,34 @@
 }
 
 header {
-    
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 100px;
+}
+
+.logo {
+    position: relative;
+ display: flex;
+}
+
+.logo img {
+    max-width: 100px;
+}
+
+.toggle {
+    position: relative;
+    background: url('/assets/img/menu.png');
+    width: 30px;
+    height: 30px;
+    background-size: 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
 }
 
 .secao {
