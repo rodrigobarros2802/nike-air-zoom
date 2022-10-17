@@ -1,5 +1,9 @@
 :root {
     --rosa-escuro: #d509a0;
+    --rosa-claro: #ff606e;
+    --preto: #111;
+    --branco: #fff;
+    --fonte-padrao: 'Poppins', sans-serif;
 }
 
 * {
@@ -9,5 +13,5 @@
 }
 
 header {
-    background: var(--rosa-escuro);
+    background: var(--rosa-claro);
 }
