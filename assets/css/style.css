@@ -96,5 +96,12 @@ header {
 }
 
 .conteudo .boxTexto a {
-    
+    display: inline-block;
+    color: var(--preto);
+    text-decoration: none;
+    background: var(--branco);
+    padding: 10px 30px;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-top: 20px;
 }
