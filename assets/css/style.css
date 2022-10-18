@@ -76,3 +76,21 @@ header {
 .conteudo .boxImg img {
     max-width: 100%;
 }
+
+.conteudo .boxTexto {
+    position: relative;
+    max-width: 700px;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo .boxTexto h2 {
+    font-size: 3em;
+    color: var(--branco);
+    font-weight: 900;
+}
+
+.conteudo .boxTexto p {
+    color: var(--branco);
+    font-weight: 500;
+}
