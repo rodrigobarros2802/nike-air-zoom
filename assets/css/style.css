@@ -105,3 +105,13 @@ header {
     font-weight: 700;
     margin-top: 20px;
 }
+
+.redes {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    bottom: 50px;
+    right: 100px;
+}
