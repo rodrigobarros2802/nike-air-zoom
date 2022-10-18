@@ -104,6 +104,8 @@ header {
     font-size: 1.2em;
     font-weight: 700;
     margin-top: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 .redes {
@@ -114,4 +116,16 @@ header {
     flex-direction: column;
     bottom: 50px;
     right: 100px;
+    filter: invert(1);
+   
+}
+
+.redes li {
+    list-style: none;
+}
+
+.redes li a {
+    text-decoration: none;
+    transform: scale(0.9);
+    display: block;
 }
