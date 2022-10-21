@@ -128,3 +128,9 @@ header {
     transform: scale(0.9);
     display: block;
 }
+
+@media (max-width: 767px) {
+    header {
+        padding: 20px 60px;
+    }
+}
