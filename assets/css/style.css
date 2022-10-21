@@ -137,4 +137,8 @@ header {
     .conteudo {
         margin-top: 71px;
     }
+
+    .conteudo .boxImg {
+    max-width: 100%;
+    }
 }
