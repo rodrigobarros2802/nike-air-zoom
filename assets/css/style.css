@@ -133,4 +133,8 @@ header {
     header {
         padding: 20px 60px;
     }
+
+    .conteudo {
+        margin-top: 71px;
+    }
 }
