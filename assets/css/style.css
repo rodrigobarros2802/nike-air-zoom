@@ -150,5 +150,6 @@ header {
         flex-direction: row;
         bottom: 50px;
         left: 100px;
+        gap: 20px;
     }
 }
