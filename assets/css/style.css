@@ -136,6 +136,7 @@ header {
 
     .secao {
         padding: 40px;
+        overflow-x: hidden;
     }
 
     .conteudo {
@@ -153,9 +154,11 @@ header {
         align-items: center;
         flex-direction: row;
         bottom: 0;
-        right: 0;
-        left: 100px;
-        gap: 20px;
+        right: initial;
         margin-top: 80px;
+    }
+
+    .redes li {
+        margin-right: 15px;
     }
 }
