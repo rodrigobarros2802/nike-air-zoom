@@ -131,11 +131,15 @@ header {
 
 @media (max-width: 767px) {
     header {
-        padding: 20px 60px;
+        padding: 20px 40px;
+    }
+
+    .secao {
+        padding: 40px;
     }
 
     .conteudo {
-        margin-top: 71px;
+        margin-top: 120px;
     }
 
     .conteudo .boxImg {
@@ -143,13 +147,15 @@ header {
     }
 
     .redes {
-        position: absolute;
+        position: relative;
         display: flex;
         justify-content: flex-start;
         align-items: center;
         flex-direction: row;
-        bottom: 50px;
+        bottom: 0;
+        right: 0;
         left: 100px;
         gap: 20px;
+        margin-top: 80px;
     }
 }
