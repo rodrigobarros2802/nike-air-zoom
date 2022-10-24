@@ -22,7 +22,8 @@
 <p align="center"></p>
 
 <h1 align="center">:hammer_and_wrench: Tecnologias</h1>
-<p align="center"></p>
+<p align="center">HTML5</p>
+<p align="center">CSS3</p>
 
 <h1 align="center">:dart: Objetivo</h1>
 <p align="center"></p>
