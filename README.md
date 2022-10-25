@@ -16,17 +16,17 @@
 * [:technologist: Autor]()
 
 <h1 align="center">:chart_with_upwards_trend: Proposta</h1>
-<p align="center"></p>
+<p align="center">Projeto proposto na mentoria CSV - Conquiste Sua Vaga, na qual faço parte.</p>
 
 <h1 align="center">:trophy: Desafio</h1>
-<p align="center"></p>
+<p align="center">Desafio de praticar as Medias Queries</p>
 
 <h1 align="center">:hammer_and_wrench: Tecnologias</h1>
 <p align="center">HTML5</p>
 <p align="center">CSS3</p>
 
 <h1 align="center">:dart: Objetivo</h1>
-<p align="center"></p>
+<p align="center">Objetivo de colocar em prática o CTD = Código Todo dia.</p>
 
 <h1 align="center">:open_book: Aprendizado</h1>
 <p align="center"><p align="center"><img src="assets/img/aprendizado.png"></p></p>
