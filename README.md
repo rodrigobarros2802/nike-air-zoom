@@ -41,13 +41,13 @@
 </p>
 
 <h1 align="center">:iphone: Mobile</h1>
-<p align="center"><img src=""></p>
+<p align="center"><img src="assets/img/print3.png"></p>
 
 <h1 align="center">:computer: Tablet</h1>
-<p align="center"><img src=""></p>
+<p align="center"><img src="assets/img/print4.png"></p>
 
 <h1 align="center">:desktop_computer: Desktop / Notebook</h1>
-<p align="center"><img src=""></p>
+<p align="center"><img src="assets/img/print2.png"></p>
 
 <h1 align="center">:link: Links</h1>
 <p align="center">Deploy - https://spontaneous-moxie-37e232.netlify.app/</p>
