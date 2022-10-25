@@ -29,7 +29,7 @@
 <p align="center"></p>
 
 <h1 align="center">:open_book: Aprendizado</h1>
-<p align="center"></p>
+<p align="center"><p align="center"><img src="assets/img/aprendizado.png"></p></p>
 
 <h1 align="center">:camera: Imagens do Projeto</h1>
 
