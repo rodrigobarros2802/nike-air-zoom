@@ -16,7 +16,7 @@
 * [:technologist: Autor]()
 
 <h1 align="center">:chart_with_upwards_trend: Proposta</h1>
-<p align="center">Projeto proposto na mentoria CSV - Conquiste Sua Vaga, na qual faço parte.</p>
+<p align="center">Projeto proposto na mentoria de Dev's CSV - Conquiste Sua Vaga, na qual faço parte.</p>
 
 <h1 align="center">:trophy: Desafio</h1>
 <p align="center">Desafio de praticar as Medias Queries</p>
